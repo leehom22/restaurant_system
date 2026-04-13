@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  /* This 'extends' the theme automatically */
+  --color-mcdRed: #DA291C;
+  --color-mcdYellow: #FFC72C;
+}

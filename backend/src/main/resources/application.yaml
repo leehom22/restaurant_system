@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: restaurant
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/mcDonalds
+    username: postgres 
+    password: UTM22012023
+  
+  jpa:
+    hibernate:
+      ddl-auto: update
